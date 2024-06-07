@@ -1,0 +1,45 @@
+.body {
+    color: #d8d1c3;
+    background-color: #1e1e16;
+    font-family: "Chewy", system-ui;
+  font-style: normal;
+}
+.freak {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    outline: 10px solid #744f31;
+    outline-offset: 5px;
+    padding: 20px;
+    background-color: #323226;
+}
+.p {
+    font-size: large;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    outline: 5px solid #744f31;
+    outline-offset: 5px;
+    padding: 20px;
+    background-color: #323226;
+    
+}
+.nav {
+    text-align: center;
+    background-color: #744f31;
+    padding: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.a {
+    color: #d8d1c3;
+    font-weight: bold;
+    font-size: large;
+}
+.gradient {background: linear-gradient(#59483c, #d8d1c3);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size:50px;
+}
